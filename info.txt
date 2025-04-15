@@ -1,1 +1,2 @@
 this is nano.txt
+modification in nano.txt file for commit c2
